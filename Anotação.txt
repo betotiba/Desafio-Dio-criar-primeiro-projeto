@@ -9,8 +9,7 @@ Nesse caso vou utilizar o método HTTPS e copiar o link do repositório.
 
 CLONANDO SEU REPOSITÓRIO
 1 - No seu PC crie um diretório onde será clonado o nosso repositório criado anteriormente.
-2 - Dentro deste diretório clique com o botão direito do mouse e abra o Git Bash previamente instalado.
-Link para instalação do Git: https://git-scm.com/.
+2 - Dentro deste diretório clique com o botão direito do mouse e abra o Git Bash previamente instalado. Link para instalação do Git: https://git-scm.com/.
 3 - Na linha de comando do Git Bash digite: git clone https://github.com/betotiba/Desafio-Dio-criar-primeiro-projeto.git
 4 - O comando acima define o comando para clonar o diretório do GitHub do link indicado.
 5 - Verifique em seu diretório local que o projeto já foi clonado.
@@ -20,6 +19,6 @@ Link para instalação do Git: https://git-scm.com/.
 9 - Digite git commit -m "Arquivo de anotação de como criar e clonar seu repositório do GitHub" e inclua um comentário sobre o arquivo.
 10 - Digite git push para enviar seu arquivo para a nuvem. 
 
-SUCESSO
+SUCESSO!
 Seu projeto já está atualizado no seu repositório do GitHub.
 
