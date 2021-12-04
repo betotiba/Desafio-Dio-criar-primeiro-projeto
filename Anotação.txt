@@ -1,4 +1,4 @@
-Criando o meu primeiro repositório no GitHub
+CRIANDO E CLONANDO MEU PRIMEIRO REPOSITÓRIO
 
 CRIANDO UM NOVO REPOSITÓRIO
 1 - Crie sua conta no GitHub.
