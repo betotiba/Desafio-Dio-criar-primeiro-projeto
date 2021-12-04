@@ -3,19 +3,23 @@ Criando o meu primeiro repositório no GitHub
 CRIANDO UM NOVO REPOSITÓRIO
 1 - Crie sua conta no GitHub.
 2 - Acesse sua conta no GitHub.
-3 - Crie um novo repositório e defina com um nome sugestivo referente ao seu projeto. Não esqueça de marcar o checkbox
-par criar nesse momento o arquivo README
-4 - Com o repositório criado clieque no botão Clone e selecione uma opção para clonar seu projeto na sua máquina local. 
-Nessecaso vou utilizar o metodo HTTPS e copiar o link do repositório. 
+3 - Crie um novo repositório e defina com um nome sugestivo referente ao seu projeto. Não esqueça de marcar o checkbox para criar nesse momento o arquivo README
+4 - Com o repositório criado clique no botão Clone e selecione uma opção para clonar seu projeto na sua máquina local. 
+Nesse caso vou utilizar o método HTTPS e copiar o link do repositório. 
 
 CLONANDO SEU REPOSITÓRIO
 1 - No seu PC crie um diretório onde será clonado o nosso repositório criado anteriormente.
 2 - Dentro deste diretório clique com o botão direito do mouse e abra o Git Bash previamente instalado.
 Link para instalação do Git: https://git-scm.com/.
 3 - Na linha de comando do Git Bash digite: git clone https://github.com/betotiba/Desafio-Dio-criar-primeiro-projeto.git
-4 - O comando acima define o comando para clanar o diretório do GitHub do link indicado.
-5 - Verifique em seu dirétorio local que o projeto já foi clonado.
-6 - Faça algumas e dições ou crie um novo arquivo como este criando as intrução de como clonar um repositório.
-7 - acesse a pasta do seu projeto e digite na linha de comando: git status para saber a situação do seu projeto. 
-8 - Observe que há um novo arquivo que precisa ser adicionado ao Git
-9 - Digite: git add . ou git add -a
+4 - O comando acima define o comando para clonar o diretório do GitHub do link indicado.
+5 - Verifique em seu diretório local que o projeto já foi clonado.
+6 - Faça algumas edições ou crie um novo arquivo como este criando as instruções de como clonar um repositório.
+7 - acesse a pasta do seu projeto e digite na linha de comando: git status para saber a situação do seu projeto. Observe que há um novo arquivo que precisa ser adicionado ao Git.
+8 - Digite: git add . ou git add -a e o novo arquivo será incluído.
+9 - Digite git commit -m "Arquivo de anotação de como criar e clonar seu repositório do GitHub" e inclua um comentário sobre o arquivo.
+10 - Digite git push para enviar seu arquivo para a nuvem. 
+
+SUCESSO
+Seu projeto já está atualizado no seu repositório do GitHub.
+
